@@ -1,0 +1,4 @@
+- tento projekt slouží k odevzdání semestrální práce z NI-PDB
+- musíte si udělat nějaký (libovolný) branch, protože do branch master nemůžete udělat commit
+- až bude semestrálka hotová nebo až ji budete chtít prezentovat prostě vytvořte merge request a přiřaďte ho na mě
+
