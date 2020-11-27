@@ -20,13 +20,16 @@ TIP: Pokud nejste zběhlí v práci s GIT, zkuste link:https://gitlab.fit.cvut.c
 * práci okomentuji a ohodnotím v rámci vypořádání **merge request** (viz výše)
 * body zapíšu do systému link:https://grades.fit.cvut.cz/courses/NI-PDB/[grades]
 
-## Odevzdání - vytvoření merge request a přiřazení vyučujícímu
+## Odevzdání = vytvoření merge request + a přiřazení vyučujícímu
 
-.vytvoření merge-request
+### Krok 1 - vytvoříte merge request
+
 [#merge-request-1]
 [caption="Vytvoření merge request"]
 image::merge-request-1.png[]
 ;
+
+### Krok 2 - přiřadíte ho uživateli Valenta
 
 .přiřazení uživatele
 [#merge-request-2]
