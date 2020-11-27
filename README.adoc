@@ -10,12 +10,26 @@
 ** **https://gitlab.fit.cvut.cz/NI-PDB/<kód semestru>/<username>** (například: https://gitlab.fit.cvut.cz/NI-PDB/B201/valenta)
 * branch **master** obsahuje pouze tyto pokyny a do něj **nemůžete udělat commit**
 * udělejte si tedy **libovolný branch** (např. semestralka) a v něm práci vypracujte
-* **odevzdání** realizujete tak, že vytvoříte **merge request** mezi vaším branch a branch commit a **přiřadíte ho uživateli valenta**
+* **odevzdání** realizujete tak, že vytvoříte **merge request** mezi vaším branch a branch commit a **přiřadíte ho uživateli valenta (pole "Assignee")**
 ** v rámci diskuse na tímto požadavkem (request) případně budeme řešit požadavky na doplnění apod.
+
+TIP: Pokud nejste zběhlí v práci s GIT, zkuste link:https://gitlab.fit.cvut.cz/BI-SQL/homeworks[návod pro studenty BI-SQL]. Níže na stránce jsou uvedeny i konkrétní příkazy jak tímto způsobem s GITem pracovat a úlohu odevzdat.
 
 ## Ohodnocení
 
 * práci okomentuji a ohodnotím v rámci vypořádání **merge request** (viz výše)
 * body zapíšu do systému link:https://grades.fit.cvut.cz/courses/NI-PDB/[grades]
 
+## Odevzdání - vytvoření merge request a přiřazení vyučujícímu
 
+.vytvoření merge-request
+[#merge-request-1]
+[caption="Vytvoření merge request"]
+image::merge-request-1.png[]
+;
+
+.přiřazení uživatele
+[#merge-request-2]
+[caption="Přiřazení uživatele (Assignee)"]
+image::merge-request-2.png[]
+;
