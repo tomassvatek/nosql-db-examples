@@ -22,17 +22,15 @@ TIP: Pokud nejste zběhlí v práci s GIT, zkuste link:https://gitlab.fit.cvut.c
 
 ## Odevzdání = vytvoření merge request + a přiřazení vyučujícímu
 
-### Krok 1 - vytvoříte merge request
+### Krok 1 - vytvoříte merge request mezi master a branch s vypracovanou semestrálkou
 
 [#merge-request-1]
 [caption="Vytvoření merge request"]
 image::merge-request-1.png[]
-;
 
-### Krok 2 - přiřadíte ho uživateli Valenta
+### Krok 2 - přiřadíte ho uživateli Valenta (Assignee bude Michal Valenta)
 
 .přiřazení uživatele
 [#merge-request-2]
 [caption="Přiřazení uživatele (Assignee)"]
 image::merge-request-2.png[]
-;
