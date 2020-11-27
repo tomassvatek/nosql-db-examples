@@ -1,4 +1,21 @@
-- tento projekt slouží k odevzdání semestrální práce z NI-PDB
-- musíte si udělat nějaký (libovolný) branch, protože do branch master nemůžete udělat commit
-- až bude semestrálka hotová nebo až ji budete chtít prezentovat prostě vytvořte merge request a přiřaďte ho na mě
+# Semestrální práce - pokyny
+
+## Forma a požadavky
+
+* viz link:https://courses.fit.cvut.cz/NI-PDB/classification/zapocet-2020/index.html[course pages -> hodnocení -> získání zápočtu]
+
+## Způsob odevzdání
+
+* každý student má v rámci předmětu NI-PDB a semestru k dispozici privátní GIT archiv
+** **https://gitlab.fit.cvut.cz/NI-PDB/<kód semestru>/<username>** (například: https://gitlab.fit.cvut.cz/NI-PDB/B201/valenta)
+* branch **master** obsahuje pouze tyto pokyny a do něj **nemůžete udělat commit**
+* udělejte si tedy **libovolný branch** (např. semestralka) a v něm práci vypracujte
+* **odevzdání** realizujete tak, že vytvoříte **merge request** mezi vaším branch a branch commit a **přiřadíte ho uživateli valenta**
+** v rámci diskuse na tímto požadavkem (request) případně budeme řešit požadavky na doplnění apod.
+
+## Ohodnocení
+
+* práci okomentuji a ohodnotím v rámci vypořádání **merge request** (viz výše)
+* body zapíšu do systému link:https://grades.fit.cvut.cz/courses/NI-PDB/[grades]
+
 
