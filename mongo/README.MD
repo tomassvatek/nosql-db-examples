@@ -56,7 +56,7 @@ Data has been downloaded from this [link](https://www.kaggle.com/yelp-dataset/ye
 
 ## 🚀 Setup
 
-Run the `mongo/scripts.js` script to generate `restaurants_init.txt` containing the init Mongo script.
+Run the `mongo/scripts.js` script to generate init scripts.
 
 > You can run MongoDB in Docker. The setup is easy.
 
@@ -179,7 +179,7 @@ db.users
   .limit(1)
   .pretty();
 
-// 10. Find the user with a name starting with "J", registered in 2016 and with at least 10 reviews. Returns `name`, `registered_date` and `reviewCount`.
+// 10. Find users with a name starting with "J", registered in 2016 and with at least 10 reviews. Returns `name`, `registered_date` and `reviewCount`.
 // # Correct result: { "name" : "Josephine", "reviewCount" : 34, "registered_date" : "2016-02-07 22:23:43" }
 db.users
   .find(
